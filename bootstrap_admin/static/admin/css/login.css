@@ -16,6 +16,8 @@ body {
 .logo-admin {
     margin:0 auto 20px auto;
     display: block;
+    width: 80%;
+    background: #ccc;
 }
 #login-form legend {
     border-color: transparent;
