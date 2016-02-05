@@ -7,7 +7,7 @@ readme = f.read()
 f.close()
 
 setup(
-    name='bootstrap_admin',
+    name='bootstrap_admin_citizenline',
     version='0.3.6',
     description='Responsive Theme for Django Admin (Django 1.7)',
     long_description=readme,
